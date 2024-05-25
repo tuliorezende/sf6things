@@ -3,7 +3,6 @@ title: SF6 Things
 tagline: Documentar algumas coisas sobre personagens e conhecimentos gerais do jogo ao longo do ciclo de vida
 description: Documentar algumas coisas sobre personagens e conhecimentos gerais do jogo ao longo do ciclo de vida
 logo: /assets/SF6Logo.png
-include:
- - Season 2
+include: ['_pages']
 plugins:
   - jekyll-seo-tag
