@@ -1,8 +1,4 @@
----
-title: Season 2 - Marisa
----
-
-# Patch Notes
+# Season 2 - Marisa
 [Link para o patch notes](https://www.streetfighter.com/6/buckler/battle_change/202405/marisa){:target="_blank"}
 
 ## Origem das techs
