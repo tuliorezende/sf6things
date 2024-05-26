@@ -78,3 +78,24 @@ Fique atento aos whiff punishes com stHK, pois se pegar, vai doer!
     - 7733 proximo ao corner
 
 - Construção de mais de uma [barra de super](https://x.com/tuliohprezende/status/1794458521741738252){:target="_blank"} (auto explicativo)
+
+# Rotas de combo
+
+Até então, tenho essas rotas documentadas após os ajustes (principalmente envolvendo starter de stHK)
+
+- 5HK (PC) > Drive rush 6HK 6HK > 214MP > 2HK
+    - **Rota de uma barra**
+- 5HK (PC) > Drive rush 6HK 6HK > Drive rush 2LP xx 236KK > 4HP xx Drive rush > 6HK 6HK > 236MP > SA3 (SA2 e SA1 também funcionam)
+    - **Conversão após o meio de tela**
+- 5HK (PC) > Drive rush 6HK xx Drive Rush > 4HP xx 214HP > 6HK (carregado) 6HK > Drive Rush > 4HP xx Drive Rush > 6HK 6HK (fazer um pequeno hold no primeiro 6HK) > 236LP xx SA3(CA) 
+    - **Maior dump de barra da personagem partindo de punish de um lado ao outro da tela**
+- **Rotas que constroem uma barra de de super inteira**
+    - 5HK (PC) > Drive rush 6HK 6HK > Drive rush 5LK xx 214HP > 2HP (carregado) > Drive rush 2HP xx 623PP > microwalk > 2HP carregado > Drive rush 4HP xx Drive rush > 4HP (carregado) xx 236HP xx SA3(CA)
+        - **Starter tem de ser mais perto do corner para garantir o primeiro 4HP carregado**
+    - 5HK (PC) > Drive rush 6HK 6HK > Drive rush 5LK xx 214HP > Drive rush 4HP xx 623PP > (microwalk) > 2HP carregado > Drive rush 4HP xx 6HK 6HK > 236MP xx SA3(CA)
+        - **Rota que funciona a partir do meio de tela (posição inicial)**
+- **Dano máximo (corner)**
+    - 5HP (carregado) > fHK xx 236KK > 4HP xx Drive rush 6HK 6HK > Drive Rush 4HP xx Drive rush 4HP (carregado) xx 236HP xx SA3(CA)
+        - **Dano máximo para punições de DP**
+    - 5HP (carregado) > fHK xx 236KK > 4HP xx Drive rush 6HK 6HK > Drive Rush 4HP xx Drive rush 6HK 6HK > 236MP XX SA3(CA)
+        - **Variação que dá um pouco mais de barra de super**
