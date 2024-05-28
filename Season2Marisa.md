@@ -99,5 +99,5 @@ Até então, tenho essas rotas documentadas após os ajustes (principalmente env
         - **Dano máximo para punições de DP**
     - 5HP (carregado) > fHK xx 236KK > 4HP xx Drive rush 6HK 6HK > Drive Rush 4HP xx Drive rush 6HK 6HK > 236MP XX SA3(CA)
         - **Variação que dá um pouco mais de barra de super**
-- **Maior Meter Build vindo de 5HP carregado**
+- **Maior Meter Build vindo de 5HP carregado (segundo combo do [video](https://x.com/El_Gran_Z/status/1794832884228129260){:target="_blank"})**
     - 5HP (carregado) > 6HK XX 214HP > 2HP (carregado) > Drive rush 4HP XX 6HK 6HK > Drive rush 4HP XX 623PP > 2HP (carregado) > 236LP xx SA3(CA)
