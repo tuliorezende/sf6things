@@ -40,3 +40,8 @@ Nesse video, o 801Strider deu algumas dicas para lidar com Dhalsim, veja o video
 - Float > Teleport
     - Espera o Teleport e aperte jab. Vai por em juggle state
     - Como Marisa: Auto correct Gladius/Launcher fraco: se teleport nas costas, irá sair launcher, se sair na frente, gladius
+
+## Season 2.5
+
+- Punish Lv 2
+    - [Rota de combo com crHP carregado]
