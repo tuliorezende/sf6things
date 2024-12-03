@@ -37,3 +37,23 @@ Procurar pela hashtag da personagem no twitter e dar uma garimpada pode-se achar
 - [Rota de soco forte carregado para oki](https://x.com/agoaniki/status/1863500836976160825){:target="_blank"}
 
 - [rota de 2HP 2HP](https://x.com/g_kujo/status/1863687528504840420){:target="_blank"}
+
+# Sweeps (Punishes)
+
+Bison -> -12
+	Max Range = Sweep
+
+Jamie -> -11
+	fMP
+	Sweep
+	stMK* (dependendo da distancia, vai combar com bHP)
+
+Cammy -> -10
+	fMP
+
+Akuma -> -12
+	fMP
+	crHK
+	stHP
+
+Ken -> fMP
