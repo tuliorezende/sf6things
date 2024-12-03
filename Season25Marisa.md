@@ -34,5 +34,6 @@ Procurar pela hashtag da personagem no twitter e dar uma garimpada pode-se achar
 
 - [Rota de meaty Overhead carregado](https://x.com/OneDayOutFGC/status/1863634785123406173){:target="_blank"}
 
-- [Rota de soco forte carregado para oki](https://x.com/agoaniki/status/1863500836976160825)
+- [Rota de soco forte carregado para oki](https://x.com/agoaniki/status/1863500836976160825){:target="_blank"}
 
+- [rota de 2HP 2HP](https://x.com/g_kujo/status/1863687528504840420){:target="_blank"}
