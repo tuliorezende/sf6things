@@ -23,7 +23,6 @@ Marisa Style é a possibilidade de botões carregados. essa mecanica foi ajustad
 
 Dessa maneira, algumas punições foram habilitadas, como por exemplo o **lv 1 da Cammy** (22f-24f) mas geralmente fica -24, logo o stHP vai punir agora
 
-
 ### Standing Heavy Punch
 Esse botao teve alguns ajustes para aprimorar o neutro e a pressão dela
 - Hitbox expandida para frente
@@ -85,40 +84,30 @@ Agora funciona corretamente em ataques que não eram absorvidos corretamente, co
 - [Exemplo de setup](https://x.com/streambeison/status/1863448021276791161){:target="_blank"}
 
 # Rotas (Draft)
-
 - [Rota midscreen em defesa no wakeup](https://x.com/agoaniki/status/1863679270800986545){:target="_blank"}
   - Rota para defesa de DP em knockdown ou tick throw
   - Esperar o boneco cair no chão para poder carregar o crHP
   - Optimal midscreen pra lv 2 e lv 3
-
 - [Rota midscreen contra bonecos grandes](https://x.com/agoaniki/status/1863730297864589715){:target="_blank"}
-
 - [Rota stMP TC para lv 2](https://x.com/Tucker_2513/status/1863638508247961966){:target="_blank"}
-
 - [Rota de meaty Overhead carregado](https://x.com/OneDayOutFGC/status/1863634785123406173){:target="_blank"}
-
 - [Rota de soco forte carregado para oki](https://x.com/agoaniki/status/1863500836976160825){:target="_blank"}
-
 - [rota de 2HP 2HP](https://x.com/g_kujo/status/1863687528504840420){:target="_blank"}
 
 # Sweeps (Punishes)
-Bison -> -12
-	Max Range = Sweep
-
-Jamie -> -11
-	fMP
-	Sweep
-	stMK* (dependendo da distancia, vai combar com bHP)
-
-Cammy -> -10
-	fMP
-
-Akuma -> -12
-	fMP
-	crHK
-	stHP
-
-Ken -> fMP
+- Bison -> -12
+	- Max Range = Sweep
+- Jamie -> -11
+	- fMP
+	- Sweep
+	- stMK* (dependendo da distancia, vai combar com bHP)
+- Cammy -> -10
+	- fMP
+- Akuma -> -12
+	- fMP
+	- crHK
+	- stHP
+- Ken -> fMP
 
 # Setup pós stun
 ## DI on hit
