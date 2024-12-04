@@ -110,10 +110,13 @@ Agora funciona corretamente em ataques que não eram absorvidos corretamente, co
 - Ken -> fMP
 
 # Setup pós stun
+
+Devido aos ajustes do stHP existem essas framekills para fazer o stHP em meaty. Como esse bot
+
 ## DI on hit
-dash (22f) > backjump (45f) > backdash (25f) > cLP (15f) > sHP [Hold]
-- total: 107f
+- dash (22f) > backjump (45f) > backdash (25f) > cLP (15f) > sHP [Hold]
+	- total: 107f
 
 ## DI on block
-backjump attack (sem hold) (46f), backdash (25f), sMK (30f), sHP [Hold]
-- total: 126f
+- backjump attack (sem hold) (46f), backdash (25f), sMK (30f), sHP [Hold]
+	- total: 126f
