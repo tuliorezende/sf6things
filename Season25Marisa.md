@@ -92,7 +92,8 @@ Agora funciona corretamente em ataques que não eram absorvidos corretamente, co
 - [Rota stMP TC para lv 2](https://x.com/Tucker_2513/status/1863638508247961966){:target="_blank"}
 - [Rota de meaty Overhead carregado](https://x.com/OneDayOutFGC/status/1863634785123406173){:target="_blank"}
 - [Rota de soco forte carregado para oki](https://x.com/agoaniki/status/1863500836976160825){:target="_blank"}
-- [rota de 2HP 2HP](https://x.com/g_kujo/status/1863687528504840420){:target="_blank"}
+- [Rota de 2HP 2HP](https://x.com/g_kujo/status/1863687528504840420){:target="_blank"}
+- [Rota de Shimmy](https://x.com/agoaniki/status/1863940811974643752){:target="_blank"}
 
 # Sweeps (Punishes)
 - Bison -> -12
