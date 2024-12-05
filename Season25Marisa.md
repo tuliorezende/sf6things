@@ -94,6 +94,9 @@ Agora funciona corretamente em ataques que não eram absorvidos corretamente, co
 - [Rota de soco forte carregado para oki](https://x.com/agoaniki/status/1863500836976160825){:target="_blank"}
 - [Rota de 2HP 2HP](https://x.com/g_kujo/status/1863687528504840420){:target="_blank"}
 - [Rota de Shimmy](https://x.com/agoaniki/status/1863940811974643752){:target="_blank"}
+	- 2 Drives gastos
+	- Otimo corner carry
+	- 4120 de dano
 
 # Sweeps (Punishes)
 Com os ajustes das rasteiras em relação a pushback, as punicões da Marisa ficaram mais ou menos assim
