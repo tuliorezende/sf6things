@@ -96,6 +96,8 @@ Agora funciona corretamente em ataques que não eram absorvidos corretamente, co
 - [Rota de Shimmy](https://x.com/agoaniki/status/1863940811974643752){:target="_blank"}
 
 # Sweeps (Punishes)
+Com os ajustes das rasteiras em relação a pushback, as punicões da Marisa ficaram mais ou menos assim
+
 - Bison -> -12
 	- Max Range = Sweep
 - Jamie -> -11
@@ -110,8 +112,10 @@ Agora funciona corretamente em ataques que não eram absorvidos corretamente, co
 	- stHP
 - Ken -> fMP
 
-# Setup pós stun
+# Recursos adicionais
+Documento contendo as rotas da [season 2.5](https://docs.google.com/file/d/18pOwOHuw1W8QRKAEMvd4J7vdEloA9aW4/edit?filetype=msword){:target="_blank"}
 
+# Setup pós stun
 Devido aos ajustes do stHP existem essas framekills para fazer o stHP em meaty. Como esse bot
 
 ## DI on hit
