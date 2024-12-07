@@ -39,6 +39,11 @@ Esse botao teve alguns ajustes para aprimorar o neutro e a pressão dela
 
 Essas medidas tentam viabilizar o uso desse botão em conjunto dos ajustes do patch passado como forma de [prender o adversário](https://x.com/shozan_6/status/1864083656580768210){:target="_blank"} no local e ela continuar pressionando
 
+Situações pós lv 3 para atacar barra de drive e ficar -3 ou até após strings para counterar devolução de low fowards
+
+Porém o setup de crMK +8 não funciona mais, mas após o sweep carregado existe o seguinte setup
+[crHK > dash > stMK](https://youtu.be/Y2SKdLU-KRs?t=219){:target="_blank"} (ideia semelhante do launcher forte)
+
 ### Heavy Two Hitter
 - Aumento do combo count upper, facilitando incorporar em rotas de combo, como mostrado no exemplo do soco forte carregado.
 
@@ -47,7 +52,9 @@ Essas medidas tentam viabilizar o uso desse botão em conjunto dos ajustes do pa
 - Força knockdown ao invés de force crouch
 - Aumentaram o knockdown do segundo hit em 10f
 
-Pra mexidas meio ??? pq é um target combo bastante unsafe no geral. O ajuste que é interessante referente ao overhead é a possibilidade de setups com [overhead carregado](https://x.com/DillonR93/status/1863702541512609933){:target="_blank"} depois de launcher médio
+Target combo bastante unsafe no geral. O ajuste que é interessante referente ao overhead é a possibilidade de setups com [overhead carregado](https://x.com/DillonR93/status/1863702541512609933){:target="_blank"} depois de launcher médio.
+
+Alem disso, como ender de launcher forte, existe meaty de soco forte carregado que não tem DI garantido
 
 ### Falx Crusher (fHK)
 - Aumentou a distancia que a Marisa se move antes do startup
