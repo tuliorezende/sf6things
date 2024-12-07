@@ -7,3 +7,4 @@ Documentar alguns aspectos do jogo para consultas com os markdowns, facilitando 
   * [Pensamentos sobre Ed Matchup](EdMU.md)
   * [Anotações sobre Dhalsim Matchup](DhalsimMU.md)
   * [Anotações sobre Kimberly Matchup](KimberlyMU.md)  
+  * [Rotas adicionais](routes.md)

@@ -44,6 +44,16 @@ Situações pós lv 3 para atacar barra de drive e ficar -3 ou até após string
 Porém o setup de crMK +8 não funciona mais, mas após o sweep carregado existe o seguinte setup
 [crHK > dash > stMK](https://youtu.be/Y2SKdLU-KRs?t=219){:target="_blank"} (ideia semelhante do launcher forte)
 
+### Crouhing Heavy Punch
+- Aumento da hitbox frame 2
+- Ajuste da hurtbox de throw para nao ser expandida pra frente no startup
+- Aumento do quanto o oponente é lançado ao ar em punish counter no chão
+- ajuste do input buffer
+
+Uma das estrelas do patch da marisa pois abre possibilidades de rotas, como uma [punição de DP de costas pro corner](https://x.com/agoaniki/status/1863679270800986545){:target="_blank"}, opções de [shimmy novas](https://x.com/agoaniki/status/1863940811974643752){:target="_blank"} e etc
+
+A ideia é que esse botao, tanto a versão normal quanto a carregada, sejam usados como inicio da punição de throws whiffados
+
 ### Heavy Two Hitter
 - Aumento do combo count upper, facilitando incorporar em rotas de combo, como mostrado no exemplo do soco forte carregado.
 
