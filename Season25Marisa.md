@@ -32,6 +32,9 @@ Esse botao teve alguns ajustes para aprimorar o neutro e a pressão dela
 	- Além disso, habilita alguns setups no canto para stHP em meaty
 		- [Pós superman](https://x.com/streambeison/status/1863472823051915271){:target="_blank"}
 		- [Pós grab](https://x.com/streambeison/status/1863448021276791161){:target="_blank"}
+			- Além disso, Throw -> Drive Rush
+				- onblock: +2
+				- onhit: +8
 	- Agora existe um setup de crMK +8 a partir do stHP carregado usado após launcher forte
 		- [214HP > 5HP Carregado > 2MP (framekill) > rush 2MK](https://youtu.be/x81G1ZAsAtc?t=664){:target="_blank"}
 
