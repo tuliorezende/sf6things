@@ -10,4 +10,4 @@ o video abaixo explica as opções para lidar, mas
 - stHP xx run > stop > crLP
     - bHP trade > bHP
 
-[Link do video contendo as demonstrações](https://x.com/agoaniki/status/1864508730483855750/video/2)
+[Link do video contendo as demonstrações](https://x.com/agoaniki/status/1864508730483855750/video/2){:target="_blank"}

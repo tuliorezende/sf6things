@@ -14,6 +14,7 @@ stMP: +1
 
 ## Strings
 - crLP > crMP xx Crack Shoot fraco
-    - Frametrap real
 - stLP > stMP xx Crack Shoot fraco
-    - Gap de 4f: stance
+
+## Interrupção
+ O segredo é interromper entre o jab e o médio utilizando scutum
