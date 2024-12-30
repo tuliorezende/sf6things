@@ -1,6 +1,6 @@
 # Setup de Arabian
 
-Baseado [nesse vídeo](https://x.com/tuliohprezende/status/1873792607836660183){:target="_blank"}, a Marisa pode contestar o setup de: Throw > Cyclone > voadinha, porém ela precisa defender o Cyclone **ABAIXADA**. a partir disso existem algumas opções
+Baseado no video abaixo, a Marisa pode contestar o setup de: Throw > Cyclone > voadinha, porém ela precisa defender o Cyclone **ABAIXADA**. a partir disso existem algumas opções
 - Launcher fraco
 - Launcher OD
 - Gladius OD
