@@ -7,10 +7,10 @@
 # Strings Crack shoot (burnout)
 
 ## Números on block - burnout
-stLP: +3
-crLP: +3
-crMP: +3
-stMP: +1
+- stLP: +3
+- crLP: +3
+- crMP: +3
+- stMP: +1
 
 ## Strings
 - crLP > crMP xx Crack Shoot fraco
