@@ -10,5 +10,6 @@ Documentar alguns aspectos do jogo para consultas com os markdowns, facilitando 
   * [Anotações sobre Kimberly Matchup](KimberlyMU.md)
   * [Anotações sobre Terry Matchup](TerryMU.md)
   * [Anotações sobre Rashid Matchup](RashidMU.md)
-  * [Anotações sobre Blanka Matchup](BlankaMU)
+  * [Anotações sobre Blanka Matchup](BlankaMU.md)
+  * [Anotações sobre Mai Matchup](MaiMU.md)
   * [Rotas adicionais](routes.md)
