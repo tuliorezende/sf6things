@@ -12,4 +12,5 @@ Documentar alguns aspectos do jogo para consultas com os markdowns, facilitando 
   * [Anotações sobre Rashid Matchup](RashidMU.md)
   * [Anotações sobre Blanka Matchup](BlankaMU.md)
   * [Anotações sobre Mai Matchup](MaiMU.md)
+  * [Anotações sobre Juri Matchup](JuriMU.md)
   * [Rotas adicionais](routes.md)
