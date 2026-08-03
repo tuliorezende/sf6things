@@ -35,6 +35,8 @@ Agora é um botão que, junto dos ultimos ajustes em proximity block, agora a va
 ## Superman
 Distancia que o boneco é arremesado foi diminuida se pega em Counter ou Punish Counter, porém parece que teve alguma interação que mudou para rotas de superman pesado (checar).
 
+[Nesse vídeo](https://youtu.be/SPcqnxbx0V0){:target="_blank"} temos diversos usos e combinações de setups
+
 ## Quadriga (Sparta Kick)
 Aqui é a outra estrela da mudança
 - Sparta Kick médio: -3 com mais pushback no burnout
