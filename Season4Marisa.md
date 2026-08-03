@@ -43,6 +43,10 @@ Aqui é a outra estrela da mudança
 Isso ajuda bastante as strings de burnout da personagem, visto que antes ela n conseguia carregar o oponente pra o canto e dar dano ao mesmo tempo
 
 - [Exemplo 1](https://x.com/ray_cero7/status/2084224241252397205){:target="_blank"}
+  - `jHP carregado -> rush -> 4HP xx 236HK > 2LP > 5LP TC >DI`
 - [Exemplo 2](https://x.com/ray_cero7/status/2084217377538138138){:target="_blank"}
+  - `6HK xx 236HK > 5LP TC xx 236MK > 2LP > 6LK > 236LP`
 - [Exemplo 3](https://x.com/Takku_Game57/status/2084164553781457382){:target="_blank"}
+  - `jHK > 6HK xx 236HK > 5LP TC >DI`
 - [Exemplo 4](https://x.com/Takku_Game57/status/2084152711336075424){:target="_blank"}
+  - `6HK xx 236HK > 2LP > 5LP TC xx 236MK > 2LP > 5LK xx RUSH 4HP xx 236HK > 2LP > 5LP TC xx 236MK > 5LK xx RUSH xx 2MP xx DI`
