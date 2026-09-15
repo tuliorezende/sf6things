@@ -27,6 +27,7 @@ Esse botão é a "estrela da companhia" do patch em termos de uso dos botões ju
 
 - [Exemplo 1](https://x.com/yonukun/status/2084314300508979299){:target="_blank"}
 - Exemplo 2: launcher fraco > 2LP > fHK
+- Exemplo 3: no corner --> conversão de safejump (stHP TC ou superman > crMP > fHK)
 
 ## stHP (Hold) TC
 Agora é um botão que, junto dos ultimos ajustes em proximity block, agora a vantagem on block é +4 e vai alcançar ainda mais de longe, fazendo o dano em barra de drive ser ainda maior e a ofensiva ficar mais perigosa.
