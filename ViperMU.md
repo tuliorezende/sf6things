@@ -34,3 +34,9 @@
 - Wakeup OD
     - Se não carregar o Focus Force -> DR stHP carregado parece ganhar (precisa de mais testes)
     - Se carregar o Focus Force -> DR stHP ganha
+
+# Finta no Wakeup
+- Viper fica mega negativa ao fazer essa finta no wakeup
+    - Algo perto de -14
+- fazer double tap no bHP visto que o timing fica bagunçado
+    - bHP vai pegar em counter 
