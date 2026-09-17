@@ -18,3 +18,8 @@
 
 ## Interrupção
  O segredo é interromper entre o jab e o médio utilizando scutum
+
+# Target stMP HP
+- -5 oB
+- Gap entre o primeiro e o segundo hit
+- Caso de pp: -23 (stHP carregado)
