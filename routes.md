@@ -6,3 +6,13 @@
 
 # Setup para crMK +8
 - 214HP > 5HP Carregado > 2MP (framekill) > rush 2MK: https://youtu.be/x81G1ZAsAtc?t=664
+
+# Setups Tucker Ducker
+- +42 > DASH > CRLP
+  - setup que deixa a marisa +5
+  - throw meaty?
+- +42 > DASH > BHP CARREGADO
+  - +20 meaty
+---	
+- launcher fraco > superman fraco
+  - bait de parry
