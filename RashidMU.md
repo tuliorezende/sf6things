@@ -26,7 +26,7 @@ Caso o eagle spike seja bloqueado
 - -4
 
 ## Arabian forte
-- MUITO PLUS
+- Plus
 - cancelamento de botão da pra pular
     - Pulo neutro cobre tanto nao fazer o follow up quanto fazer
 - Interromper com botao de 6f (stLP ou stLK) é uma ideia
