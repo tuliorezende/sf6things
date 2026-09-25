@@ -14,3 +14,19 @@ Baseado no video abaixo, a Marisa pode contestar o setup de: Throw > Cyclone > v
 # Punish de Eagle Spike
 Caso o eagle spike seja bloqueado
 - Drive rush > stHP carregado
+
+# Punições de Arabian
+## Arabian fraco
+- -6
+- Hurtbox extendida
+- De Marisa, `stLK` parece cobrir todos os spacings
+- se fizer follow up da giradinha: soco forte
+
+## Arabian medio
+- -4
+
+## Arabian forte
+- MUITO PLUS
+- cancelamento de botão da pra pular
+    - Pulo neutro cobre tanto nao fazer o follow up quanto fazer
+- Interromper com botao de 6f (stLP ou stLK) é uma ideia
