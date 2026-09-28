@@ -16,3 +16,7 @@
 ---	
 - launcher fraco > superman fraco
   - bait de parry
+
+# Side Switch Karura
+- launcher forte -> rush delay jab > dash
+- +27/+28
