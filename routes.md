@@ -22,3 +22,7 @@
 # Side Switch Karura
 - launcher forte -> rush delay jab > dash
 - +27/+28
+
+# crMP Drive rush
+- Não é possível ir para CG
+  - Mash jab ganha
