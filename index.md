@@ -17,4 +17,5 @@ Documentar alguns aspectos do jogo para consultas com os markdowns, facilitando 
   * [Anotações sobre JP Matchup](JPMU.md)
   * [Anotações sobre C.Viper Matchup](ViperMU.md)
   * [Anotações sobre Manon Matchup](ManonMU.md)
+  * [Anotações sobre Alex Matchup](AlexMU.md)
   * [Rotas adicionais](routes.md)
