@@ -1,5 +1,5 @@
 # Vídeo
-- Fonte: https://youtu.be/f3CENnfwfWU
+- Fonte: (202610ver】ストリートファイター6 アルジュン 基本 コンボ【STREET FIGHTER 6 ARJUN BASIC COMBOS】)[https://youtu.be/f3CENnfwfWU]{:target="_blank"}
 
 # Combos Básicos
 
