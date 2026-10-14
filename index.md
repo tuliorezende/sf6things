@@ -19,3 +19,7 @@ Documentar alguns aspectos do jogo para consultas com os markdowns, facilitando 
   * [Anotações sobre Manon Matchup](ManonMU.md)
   * [Anotações sobre Alex Matchup](AlexMU.md)
   * [Rotas adicionais](routes.md)
+
+* **Arjun**
+  * [Arjun - Combos Basicos](ArjunCombos.md)
+  * [Arjun - Rascunhos](ArjunDraft.md)
