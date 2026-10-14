@@ -2,6 +2,7 @@
 
 ## Hashtag japonesas
 - #スト6アルジュン
+- #アルジュン
 
 ## Blog - Reiketsu
 https://reiketsu.net/combo/char/arjun/classic/1791/
