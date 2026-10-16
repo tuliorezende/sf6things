@@ -26,3 +26,9 @@ https://reiketsu.net/combo/char/arjun/classic/1791/
 
 ## Punish de Drive reversal
 - 2LP > 5MK xx 623LP
+
+## Safejumps
+
+- Palm OD > Followup > stMP (Framekill)
+- Palm Forte > Followup > stMP (Framekill)
+- Palm Fraco > Followup > crLP xx crLK (Framekill)
